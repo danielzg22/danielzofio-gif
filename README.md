@@ -8,4 +8,5 @@ Unreal Engine:
   - creador del joc Fast Food at All Costs - Itchi.io
 
 Memes que em representen:
-![Demo]()
+![Demo](https://github.com/danielzg22/danielzofio-gif/blob/main/arthur-morgan-arthur-morgan-coffee.gif)
+![Demo](https://github.com/danielzg22/danielzofio-gif/blob/main/minecraft-steve.gif)
