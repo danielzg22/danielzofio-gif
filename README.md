@@ -6,9 +6,8 @@ Actualment estudiant a ENTI el cicle superior de DAM especialitat en Videojocs.
 Coneixements:
 Unreal Engine:
   - creador del joc Fast Food at All Costs - Itchi.io
-
-HTML y CSS
-C++ nivell bàsic
+  - HTML y CSS
+  - C++ nivell bàsic
 
 Memes que em representen:
 
